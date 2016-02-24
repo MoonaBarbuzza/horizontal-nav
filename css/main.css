@@ -1,0 +1,47 @@
+html {
+	box-sizing: border-box;
+  font-family: Bevan, cursive;
+  background-color: #dbd6d0;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+  background-color: #79766f;
+	margin: 0;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+
+li a {
+	display: inline-block;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.uni {
+  	border-radius: 4px;
+		background-color: #733737;
+		padding: 0.5em 0.75em;
+		display: inline-block;
+		text-align: center;
+		margin: 1em;
+}
+
+nav {
+	text-align: center;
+}
+
+li
